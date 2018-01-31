@@ -1,7 +1,7 @@
 import './main.css';
 import React    from 'react';
 import ReactDOM from 'react-dom';
-import Canvas    from './components/canvas.jsx';
+import Canvas    from './components/canvas.js';
 
 const mountingPoint = document.createElement('div');
 mountingPoint.className = 'react-app';
